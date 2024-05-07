@@ -1775,7 +1775,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .about .img-box figure {
 	margin: 0;
-	margin-bottom: 60px;
+	margin-bottom: 30px;
 }
 
 .about .img-box a {
@@ -1783,7 +1783,7 @@ input[type="radio"] .styled:checked+label::after {
 	border: #000 solid 1px;
 	background: #000;
 	width: 206px;
-	padding: 5px 0;
+	padding: 15px 0;
 	display: inline-block;
 	font-weight: 500;
 	font-size: 17px;
